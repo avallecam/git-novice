@@ -20,12 +20,6 @@ Alumni maintainers:
 - [Ivan Gonzalez][gonzalez_ivan]: [@iglpdc](https://github.com/iglpdc)
 - [Daisie Huang][huang_daisie]: [@daisieh](https://github.com/daisieh)
 
-[lesson-example]: https://swcarpentry.github.io/lesson-example
-[hejazi_nima]: https://carpentries.org/instructors/#nhejazi
-[koziar_kat]: https://carpentries.org/instructors/#kekoziar
-[munk_madicken]: https://carpentries.org/instructors/#munkm
-[gonzalez_ivan]: https://carpentries.org/instructors/#iglpdc
-[huang_daisie]: https://software-carpentry.org/team/#huang_daisie
 
 
 
